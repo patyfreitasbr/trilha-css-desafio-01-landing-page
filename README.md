@@ -9,9 +9,11 @@ Projeto desenvolvido como parte do **Desafio da Trilha de CSS** do [Bootcamp RI 
 
 ## Demonstração
 
-[Clique para acessar a página]()
+### [ Clique para acessar a página](https://patyfreitasbr.github.io/trilha-css-desafio-01-landing-page/)
+<center>
 
 ![demosntração página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8Xs6NumY5uuOahayOGZQ1nea5QEJujyzpeZkiSqv1uT51YvHrhn6ellLOfa4VZqGgWwV6n72-Elw5Rf1FoDguGUyPT8SO7Tozgtuw35UeKXKwQrSdhnbNUvL5pTZXBxBtKZFmYuxgFaGBSxzs8V_-1OoNgFcUqXfuXIxiXpvz_mPaLQkLoCMyk19aiwl/s16000/LandinPageDio.gif)
+</center>
 
 ## 📋 Descrição do Projeto
 
@@ -78,16 +80,10 @@ open index.html
 
 ## 📌 Créditos e Referências
 
-Este projeto foi desenvolvido como parte do desafio da [Digital Innovation One](https://www.dio.me/) e utiliza um protótipo no [Figma](#).
+Este projeto foi desenvolvido como parte do desafio da [Digital Innovation One](https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2) e utiliza um protótipo no [Figma](#).
 
 Se você achou esse projeto interessante, sinta-se à vontade para dar uma ⭐ no repositório!
 
-## 📌 Créditos e Referências
-
-Este projeto foi desenvolvido como parte do desafio da [Digital Innovation One](https://www.dio.me/) e utiliza um protótipo no [Figma](#).
-
-Se você achou esse projeto interessante, sinta-se à vontade para dar uma ⭐ no repositório!
-</br>
 
 ## Contato
 
